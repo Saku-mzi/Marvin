@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 700px;
+  width: 1000px;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 107px 132px 36px 349px 45px 242px 89px;
+}
