@@ -4,11 +4,39 @@
 }
 
 body {
-  height: 700px;
-  width: 1000px;
+  max-height: 700px;
+  max-width: 1000px;
 }
 
 main {
   display: grid;
   grid-template-columns: 107px 132px 36px 349px 45px 242px 89px;
+  grid-template-rows: 102px 500px 98px;
+}
+
+#marvinLogo {
+  grid-column-start: 2;
+  grid-row-start: 2;
+
+  img {
+    margin-top: 216px;
+    width: 94px;
+  }
+}
+
+#dots {
+  grid-column-start: 3;
+  grid-row-start: 2;
+  border-left: 2px dotted #cccccc;
+}
+
+#marvinImage {
+  display: flex;
+  grid-column-start: 4;
+  grid-row-start: 2;
+
+  img {
+    height: 502px;
+    width: 342px;
+  }
 }
