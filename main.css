@@ -1,14 +1,18 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: Garamond, serif;
 }
 
 body {
-  max-height: 700px;
-  max-width: 1000px;
+  display: grid;
+  place-content: center;
 }
 
 main {
+  margin: 125px 0 125px 0;
+  height: 700px;
+  width: 1000px;
   display: grid;
   grid-template-columns: 107px 132px 36px 349px 45px 242px 89px;
   grid-template-rows: 102px 500px 98px;
@@ -38,5 +42,33 @@ main {
   img {
     height: 502px;
     width: 342px;
+  }
+}
+
+#container {
+  grid-column-start: 5;
+  grid-column-end: 7;
+  margin: 289px 0 0 45px;
+  h3 {
+    font-size: 33px;
+    color: #989898;
+  }
+  p#quote {
+    margin: 20px 0 0 0;
+    font-size: 26px;
+  }
+  p#name {
+    margin: 18px 0 0 0;
+    font-size: 20px;
+    color: #b1b1b1;
+  }
+  p#year {
+    margin: 4px 0 0 0;
+    font-size: 20px;
+    color: #b1b1b1;
+  }
+  p#copyright {
+    margin-top: 104px;
+    color: #dfdfdf;
   }
 }
