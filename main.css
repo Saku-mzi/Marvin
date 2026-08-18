@@ -53,16 +53,16 @@ main {
     font-size: 33px;
     color: #989898;
   }
-  p#quote {
+  p#quoteOfTheDay {
     margin: 20px 0 0 0;
     font-size: 26px;
   }
-  p#name {
+  p#naam {
     margin: 18px 0 0 0;
     font-size: 20px;
     color: #b1b1b1;
   }
-  p#year {
+  p#jaar {
     margin: 4px 0 0 0;
     font-size: 20px;
     color: #b1b1b1;
