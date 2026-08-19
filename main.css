@@ -31,7 +31,7 @@ main {
 #dots {
   grid-column-start: 3;
   grid-row-start: 2;
-  border-left: 2px dotted #cccccc;
+  border-left: 3px dotted #cccccc;
 }
 
 #marvinImage {
@@ -40,8 +40,8 @@ main {
   grid-row-start: 2;
 
   img {
-    height: 502px;
-    width: 342px;
+    height: 500px;
+    width: 350px;
   }
 }
 
