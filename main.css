@@ -31,7 +31,7 @@ main {
 #dots {
   grid-column-start: 3;
   grid-row-start: 2;
-  border-left: 3px dotted #cccccc;
+  border-left: 2px dashed #cccccc;
 }
 
 #marvinImage {
@@ -42,6 +42,12 @@ main {
   img {
     height: 500px;
     width: 350px;
+    transition: all 0.5s;
+  }
+
+  :hover {
+    scale: 1.02;
+    cursor: pointer;
   }
 }
 
@@ -68,7 +74,7 @@ main {
     color: #b1b1b1;
   }
   p#copyright {
-    margin-top: 104px;
+    margin-top: 70px;
     color: #dfdfdf;
   }
 }

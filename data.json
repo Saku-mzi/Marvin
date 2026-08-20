@@ -1,164 +1,92 @@
 {
   "gallery": [
     {
-      "src": "images/20.jpg",
-      "number": 73,
-      "quote": "The quick brown fox jumped over the lazy dog",
-      "author": "jimi hendrix",
-      "year": 2026,
-      "copyright": "Bo Shangles"
-    },
-    {
-      "src": "images/05.jpg",
-      "number": 97,
-      "quote": "I bom atomacaly",
-      "author": "Inspectah Deck",
-      "year": 2006,
-      "copyright": "Hugh Masekela"
-    },
-    {
       "src": "images/01.jpg",
       "number": 1,
-      "quote": "If music be the food of love, play on.",
+      "quote": "If music be the food of love, play on''",
       "author": "William Shakespeare",
       "year": 2026,
-      "copyright": "Annie Leibovitz"
+      "copyright": "\u00A9 Annie Leibovitz"
     },
     {
       "src": "images/02.jpg",
       "number": 2,
-      "quote": "Music is the strongest form of magic.",
+      "quote": "Music is the strongest form of magic''",
       "author": "Marilyn Manson",
       "year": 2026,
-      "copyright": "Henri Cartier-Bresson"
+      "copyright": "\u00A9 Henri Cartier-Bresson"
     },
     {
       "src": "images/03.jpg",
       "number": 3,
-      "quote": "The beautiful thing about learning is nobody can take it away from you.",
+      "quote": "The beautiful thing about learning is nobody can take it away from you''",
       "author": "B.B. King",
       "year": 2026,
-      "copyright": "Dorothea Lange"
+      "copyright": "\u00A9 Dorothea Lange"
+    },
+    {
+      "src": "images/05.jpg",
+      "number": 97,
+      "quote": "I bomb atomacaly''",
+      "author": "Inspectah Deck",
+      "year": 2006,
+      "copyright": "\u00A9 Hugh Masekela"
     },
     {
       "src": "images/04.jpg",
       "number": 4,
-      "quote": "You have to fight to reach your dream.",
+      "quote": "You have to fight to reach your dream''",
       "author": "Aretha Franklin",
       "year": 2026,
-      "copyright": "Ansel Adams"
+      "copyright": "\u00A9 Ansel Adams"
     },
     {
       "src": "images/06.jpg",
       "number": 6,
-      "quote": "I don't need time, I need a deadline.",
+      "quote": "I don't need time, I need a deadline''",
       "author": "Duke Ellington",
       "year": 2026,
-      "copyright": "Richard Avedon"
+      "copyright": "\u00A9 Richard Avedon"
     },
     {
       "src": "images/07.jpg",
       "number": 7,
-      "quote": "The times they are a-changin'.",
+      "quote": "Hee Hee''",
       "author": "Bob Dylan",
       "year": 2026,
-      "copyright": "Steve McCurry"
+      "copyright": "\u00A9 Steve McCurry"
     },
     {
       "src": "images/08.jpg",
       "number": 8,
-      "quote": "I would rather be hated for who I am than loved for who I am not.",
+      "quote": "I would rather be hated for who I am than loved for who I am not''",
       "author": "Kurt Cobain",
       "year": 2026,
-      "copyright": "Robert Capa"
+      "copyright": "\u00A9 Robert Capa"
     },
     {
       "src": "images/09.jpg",
       "number": 9,
-      "quote": "The only truth is music.",
+      "quote": "The only truth is music''",
       "author": "Jack Kerouac",
       "year": 2026,
-      "copyright": "Cindy Sherman"
+      "copyright": "\u00A9 Cindy Sherman"
     },
     {
       "src": "images/10.jpg",
       "number": 10,
-      "quote": "I am the entertainer, and I know just where I stand.",
+      "quote": "I am the entertainer, and I know just where I stand''",
       "author": "Billy Joel",
       "year": 2026,
-      "copyright": "Edward Weston"
+      "copyright": "\u00A9 Edward Weston"
     },
     {
       "src": "images/11.jpg",
       "number": 11,
-      "quote": "Without music, life would be a mistake.",
+      "quote": "Without music, life would be a mistake''",
       "author": "Friedrich Nietzsche",
       "year": 2026,
-      "copyright": "Diane Arbus"
-    },
-    {
-      "src": "images/12.jpg",
-      "number": 12,
-      "quote": "Music can change the world because it can change people.",
-      "author": "Bono",
-      "year": 2026,
-      "copyright": "Man Ray"
-    },
-    {
-      "src": "images/13.jpg",
-      "number": 13,
-      "quote": "A dream you dream alone is only a dream. A dream you dream together is reality.",
-      "author": "John Lennon",
-      "year": 2026,
-      "copyright": "Yousuf Karsh"
-    },
-    {
-      "src": "images/14.jpg",
-      "number": 14,
-      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-      "author": "Nelson Mandela",
-      "year": 2026,
-      "copyright": "Nick Brandt"
-    },
-    {
-      "src": "images/15.jpg",
-      "number": 15,
-      "quote": "You can't use up creativity. The more you use, the more you have.",
-      "author": "Maya Angelou",
-      "year": 2026,
-      "copyright": "Gordon Parks"
-    },
-    {
-      "src": "images/16.jpg",
-      "number": 16,
-      "quote": "The future belongs to those who believe in the beauty of their dreams.",
-      "author": "Eleanor Roosevelt",
-      "year": 2026,
-      "copyright": "Sebastião Salgado"
-    },
-    {
-      "src": "images/17.jpg",
-      "number": 17,
-      "quote": "Turn your wounds into wisdom.",
-      "author": "Oprah Winfrey",
-      "year": 2026,
-      "copyright": "Peter Beard"
-    },
-    {
-      "src": "images/18.jpg",
-      "number": 18,
-      "quote": "The only way to do great work is to love what you do.",
-      "author": "Steve Jobs",
-      "year": 2026,
-      "copyright": "Vivian Maier"
-    },
-    {
-      "src": "images/19.jpg",
-      "number": 19,
-      "quote": "Music expresses that which cannot be put into words.",
-      "author": "Victor Hugo",
-      "year": 2026,
-      "copyright": "Helmut Newton"
+      "copyright": "\u00A9 Diane Arbus"
     }
   ]
 }
