@@ -1,14 +1,14 @@
 const qNum = ["#10", "#15", "#20", "#25", "#30", "#35", "#40", "#45", "#50"];
 const quote = [
   'Nna kao kgaola, ke taba ya hao le Jesu"',
-  'llellelle"',
-  'jksdfsjsjfls"',
-  'jjomcmeimic"',
-  'klgdgjk"',
-  'jgfdfgyu"',
+  'Sometimes people make sense"',
+  'Who told you that?"',
+  `I think I lost my bankcard... There's nothing in it anyway"`,
+  'We need a return of plastic straws"',
+  'Marvin is on page 1 i think"',
   'Hee Hee"',
-  'jhgfdfgyhrvsvrsvjkl"',
-  'jhgfdfgyhjksvvrsrl"',
+  'You just missed Michael Jackson"',
+  'I got chest pains"',
 ];
 
 const images = [

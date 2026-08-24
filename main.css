@@ -52,7 +52,7 @@ main {
   margin: 289px 0 0 45px;
   h3 {
     font-size: 33px;
-    color: #989898;
+    color: #e5e5e5;
   }
   p#quoteOfTheDay {
     margin: 20px 0 0 0;
@@ -61,12 +61,12 @@ main {
   p#naam {
     margin: 18px 0 0 0;
     font-size: 20px;
-    color: #b1b1b1;
+    color: #ebebeb;
   }
   p#jaar {
     margin: 4px 0 0 0;
     font-size: 16px;
-    color: #b1b1b1;
+    color: #ececec;
     font-family: Helvetica, sans-serif;
   }
   p#copyright {
