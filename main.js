@@ -6,7 +6,7 @@ const quote = [
   'jjomcmeimic"',
   'klgdgjk"',
   'jgfdfgyu"',
-  'jdgrvbsrbdfgyhjkl"',
+  'Hee Hee"',
   'jhgfdfgyhrvsvrsvjkl"',
   'jhgfdfgyhjksvvrsrl"',
 ];
@@ -24,13 +24,13 @@ const images = [
 ];
 
 const name = [
-  "thatOneG",
+  "Jimi Hendrix",
   "idkBro",
   "daiMan",
   "leYenaAkemoItsi",
   "ashu",
   "kaMmona",
-  "michelJack",
+  "MJ",
   "meWhileDoingThis",
   "idkAgain",
 ];
