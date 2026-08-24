@@ -59,8 +59,9 @@ main {
   grid-column-start: 5;
   grid-column-end: 7;
   margin: 289px 0 0 45px;
-  flex-grow: 1;
+
   #content {
+    flex-grow: 1;
   }
 
   h3 {
