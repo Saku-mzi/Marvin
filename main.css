@@ -35,7 +35,6 @@ main {
 }
 
 #marvinImage {
-  display: flex;
   grid-column-start: 4;
   grid-row-start: 2;
 
@@ -46,6 +45,8 @@ main {
 }
 
 #container {
+  display: flex;
+  flex-direction: column;
   grid-column-start: 5;
   grid-column-end: 7;
   margin: 289px 0 0 45px;
