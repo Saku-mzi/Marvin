@@ -61,7 +61,7 @@ main {
     color: #989898;
   }
   p#quoteOfTheDay {
-    margin: 20px 0 0 20px;
+    margin: 20px 0 0 0px;
     font-size: 26px;
   }
   p#naam {
