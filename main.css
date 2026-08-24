@@ -21,10 +21,13 @@ main {
 #marvinLogo {
   grid-column-start: 2;
   grid-row-start: 2;
-
   img {
     margin-top: 216px;
     width: 94px;
+    transition: all 0.5s;
+  }
+  :hover {
+    scale: 1.105;
   }
 }
 
@@ -41,6 +44,12 @@ main {
   img {
     height: 502px;
     width: 342px;
+    transition: all 0.5s;
+  }
+  :hover {
+    cursor: pointer;
+    scale: 1.02;
+    opacity: 0.8;
   }
 }
 
@@ -50,6 +59,10 @@ main {
   grid-column-start: 5;
   grid-column-end: 7;
   margin: 289px 0 0 45px;
+  flex-grow: 1;
+  #content {
+  }
+
   h3 {
     font-size: 33px;
     color: #e5e5e5;
@@ -72,7 +85,6 @@ main {
   p#copyright {
     font-size: 14px;
     font-family: Helvetica, sans-serif;
-    margin-top: 104px;
     color: #dfdfdf;
   }
 }
